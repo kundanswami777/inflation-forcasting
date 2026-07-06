@@ -1,0 +1,10 @@
+fredapi
+pandas
+numpy
+scikit-learn
+xgboost
+statsmodels
+matplotlib
+plotly
+streamlit
+jupyter
